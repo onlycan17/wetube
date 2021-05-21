@@ -102,3 +102,6 @@ dist
 .fusebox/
 
 package-lock.json
+.env
+uploads
+static
